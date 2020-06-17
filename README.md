@@ -66,7 +66,7 @@ The columns proved to be too diverse for me to use OpenRefine on them and so I d
 
 ### Voyant actions
 
-1. Load [virginia-woolf-diary.tsv](diary-entries\virginia-woolf-diary.tsv) directly into Voyant
+1. Load [virginia-woolf-diary.tsv](https://github.com/DeveloperRic/HIST-3814-O-S2020/blob/master/week6/diary-entries/virginia-woolf-diary.tsv) directly into Voyant
 2. In 'Contexts' view, search for collocates of 'England'
 3. In 'Trends' view, show `'wom*'` and `'men*|man` using 25 document segements
 
